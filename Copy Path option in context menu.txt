@@ -1,0 +1,8 @@
+--Copy Path option in context menu
+#1. cmd + scpace
+#2. search automator
+#3. Select "New Document"
+#4. Choose "Service" as type for your document
+#5. Search "Copy to Clipboard"
+#6. Choose "files or folders" in "Service receives selected" and "Finder" in "in"
+#7. Menu > File > Save.. (give name - "Copy Path")
